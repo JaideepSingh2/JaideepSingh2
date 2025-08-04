@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaideep Singh
+
+I'm a Computer Science undergraduate passionate about **cybersecurity** and **cloud computing**.  
+Currently exploring **AI** and working on a `Chess_AI_Project`, where I'm integrating cloud technologies to make it a **multiplayer online game**.
+
+🧠 I enjoy learning how different technologies intersect and building real-world, scalable solutions.
+
+📌 Check out my projects from the pinned repositories below!
+
 
 <!--
 **JaideepSingh2/JaideepSingh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
