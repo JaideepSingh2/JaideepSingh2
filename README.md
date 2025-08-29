@@ -18,7 +18,7 @@ I'm a **Computer Science undergraduate** with a strong interest in **cybersecuri
 - 🧠 **Chess_AI_Project** – Developing an AI-powered chess game with multiplayer support.  
   I’m experimenting with cloud integration to turn it into an **online real-time platform**.
 
-- 📚 Learning more about **machine learning**, **secure cloud deployment**, and **network security**.
+- 📚 Learning more about **secure cloud deployment**, and **network security**.
 
 ---
 
